@@ -1,0 +1,32 @@
+﻿  mapToolScene.cpp
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(86): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(95): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(96): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(107): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(118): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(157): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(187): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(188): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(523): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(539): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(547): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(552): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(558): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(559): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(560): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(561): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(581): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(588): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(595): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(615): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.cpp(625): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  diablo2.cpp
+c:\users\봉기남\documents\github\diablo2\diablo 2\maptoolscene.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+  Diablo 2.vcxproj -> C:\Users\봉기남\Documents\GitHub\DIABLO2\DIABLO 2\Debug\Diablo 2.exe
+  Diablo 2.vcxproj -> C:\Users\봉기남\Documents\GitHub\DIABLO2\DIABLO 2\Debug\Diablo 2.pdb (Partial PDB)
